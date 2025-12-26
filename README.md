@@ -3,10 +3,7 @@
 
 # 🦸 Bernard Dhakal
 
-🎓 **Final Year BSc (Hons) Computing Student** | 🚀 **AI & Full-Stack Developer**
-
-![GitHub Followers](https://img.shields.io/github/followers/bernarddhakal?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/bernarddhakal?style=social)
+🎓 **BSc (Hons) Computing Student Graduate** | 🚀 **AI & Full-Stack Developer**
 
 *Turning coffee into code, ideas into reality ☕ → 💻*
 
