@@ -1,4 +1,4 @@
-# My-GitHub-profile-README
+e# My-GitHub-profile-README
 <div align="center">
 
 # 🦸 Bernard Dhakal
@@ -51,18 +51,6 @@ Restaurant website built during internship
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernarddhakal&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernarddhakal&layout=compact&theme=radical) |
-|:---:|:---:|
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bernarddhakal&theme=radical)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
