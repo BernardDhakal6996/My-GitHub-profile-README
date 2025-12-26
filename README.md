@@ -69,7 +69,7 @@ Restaurant website built during internship
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/hello@bernarddhakal.com-D14836?logo=gmail)](mailto:hello@bernarddhakal.com)
+[![Email](https://img.shields.io/badge/hello@bernarddhakal.com-D14836?logo=gmail)](mailto:bernarddhakal10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/bernarddhakal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome)](https://bernard-dhakal.vercel.app)
 
